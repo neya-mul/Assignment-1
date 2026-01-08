@@ -221,5 +221,21 @@
     margin-top: 30px;
 }
 .footer{
+    margin: 0 auto;
     background-color: #001931;
+    max-width: 1600px;
+    padding: 120px 120px 20px 120px;
+}
+.footer-elements{
+    align-items: center;
+}
+.footer-links{
+    color: #FFFFFF;
+}
+.footer p{
+    margin-top: 80px;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-top: 20px;
+    color: #FFFFFF;
 }
