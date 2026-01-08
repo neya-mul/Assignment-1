@@ -183,3 +183,40 @@
     max-width: 470px;
     margin-bottom: 20px;
 }
+.section3{
+    margin: 50px auto;
+    max-width: 1360px;
+    height: 385px;
+    text-align: center;
+    background-color: #F7F6F2;
+    padding: 80px 40px;
+}
+.section3 h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sec3-para{
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+.challenge-part p{
+   margin-right: 10px;
+}
+.section3 button{
+     border: none;
+    background-color: #469165;
+    border-radius: 4px;
+    width: 198px;
+    height: 45px;
+    padding: 13px 16px;
+    font-size: 16px;
+    color: #FFFFFF;
+    align-items: center;
+}
+.challenge-part{
+    display: flex; 
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
