@@ -57,6 +57,13 @@
     color: #FFFFFF;
     /* align-items: center; */
 }
+.navbar button:hover{
+    border: 1px solid #469165;
+    background-color: #FFFFFF;
+    color: #469165;
+    cursor: pointer;
+    box-shadow: 1px 1px 9px  gray;
+}
 .header-div{
     background: url(./assets/hero-bg.png);
     padding: 115px 120px 180px 120px ;
@@ -87,6 +94,12 @@
     padding: 8px 12px;
     color: #30B868;
     align-items: center;
+    font-size: 11px;
+}
+.hbtn1:hover{
+    background: none;
+    border: 1px solid;
+    cursor: pointer;
 }
 .hbtn2{
     width: 250px;
@@ -97,6 +110,13 @@
     padding: 16px;
     color: #FFFFFF;
     font-size: 16px;
+    font-weight: 500;
+}
+.hbtn2:hover{
+    background: none;
+    color: #30B868;
+    border: 1px solid;
+    cursor: pointer;
 }
 .hbtn3{
     background: none;
@@ -107,6 +127,12 @@
     color: #FFFFFF;
     font-size: 16px;
     padding: 16px;
+     cursor: pointer;
+}
+.hbtn3:hover{
+    border: none;
+    background-color:#30B868 
+    ;
 }
 .hbtn1 i,.sec2-elements ul li i{
     color: #30B868;
@@ -217,6 +243,13 @@
     font-size: 16px;
     color: #FFFFFF;
     align-items: center;
+}
+.section3 button:hover{
+    border: 1px solid;
+    color: #469165;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 9px  gray;
+    cursor: pointer;
 }
 .challenge-part{
     display: flex; 
