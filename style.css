@@ -183,6 +183,9 @@
 .sec1-card p{
     color: #627382;
 }
+.sec1-card:hover{
+      box-shadow: 0.5px 0.5px 10px rgb(105, 102, 102);
+}
 .section2{
     /* border: 1px solid; */
     /* padding: 30px; */
@@ -272,7 +275,7 @@
 .footer-elements{
     align-items: center;
 }
-.footer-links{
+.footer-links,a{
     color: #FFFFFF;
 }
 .footer p{
