@@ -95,6 +95,7 @@
     color: #30B868;
     align-items: center;
     font-size: 11px;
+    
 }
 .hbtn1:hover{
     background: none;
@@ -111,10 +112,11 @@
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 500;
+     margin-top: 32px;
 }
 .hbtn2:hover{
     background: none;
-    color: #30B868;
+    color: #FFFFFF;
     border: 1px solid;
     cursor: pointer;
 }
@@ -128,6 +130,7 @@
     font-size: 16px;
     padding: 16px;
      cursor: pointer;
+      margin-top: 32px;
 }
 .hbtn3:hover{
     border: none;
